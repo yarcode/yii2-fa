@@ -1,0 +1,32 @@
+{
+  "name": "yii-dream-team/yii2-fa",
+  "description": "Font Awesome bundle for Yii2",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "font-awesome"
+  ],
+  "homepage": "http://yiidreamteam.com/yii2/fa",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexey Samoylov",
+      "email": "alexey.samoylov@gmail.com",
+      "homepage": "http://yiidreamteam.com/team/alexey",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/yii-dream-team/yii2-fa/issues",
+    "source": "https://github.com/yii-dream-team/yii2-fa"
+  },
+  "require": {
+    "yiisoft/yii2": "~2",
+    "bower-asset/font-awesome": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "yiidreamteam\\fa\\": "./src"
+    }
+  }
+}
