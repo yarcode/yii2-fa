@@ -1,5 +1,5 @@
 <?php
-namespace yiidreamteam\fa;
+namespace yarcode\fa;
 
 use yii\web\AssetBundle;
 
