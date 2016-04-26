@@ -1,5 +1,5 @@
 {
-  "name": "yii-dream-team/yii2-fa",
+  "name": "yarcode/yii2-fa",
   "description": "Font Awesome bundle for Yii2",
   "type": "yii2-extension",
   "keywords": [
@@ -17,8 +17,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/yii-dream-team/yii2-fa/issues",
-    "source": "https://github.com/yii-dream-team/yii2-fa"
+    "issues": "https://github.com/yarcode/yii2-fa/issues",
+    "source": "https://github.com/yarcode/yii2-fa"
   },
   "require": {
     "yiisoft/yii2": "~2",
